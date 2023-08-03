@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Swapnil
 - 👀 I’m interested in Data Science related stuffs
-- 🌱 I’m currently pursuing my master's degree from Indian Institute of Technology Bombay
+- 🌱 I’m currently pursuing my Master degree in Chemical Engineering from Indian Institute of Technology Bombay
 - 💞️ I’m looking to collaborate with any Data Science or analysis related projects.
 - 📫 How to reach me: swapnildamke18@gmail.com
 
